@@ -1,0 +1,7 @@
+AndroidでDropboxのAPIを利用するとき用のプログラム類。
+公式のサンプルプログラムから作成。
+
+DropboxUtilsクラスを生成してDropboxと接続してください。
+onResumeでResumeAuthenticationを忘れないように。
+
+AppKeyとAppSecretはDropboxUtilsクラスで変更できます。
